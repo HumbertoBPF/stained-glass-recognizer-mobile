@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reconhecedor de Vitrais</string>
+    <string name="app_presentation">Bem-vindo! Esse aplicativo desenvolvido pelo polo P14 da CentraleSupélec realiza o reconhecimento de vitrais de acordo com a base de dados da Igreja da Irlanda.</string>
+    <string name="btn_img_selection">Selecione uma imagem</string>
+    <string name="btn_img_upload">Enviar imagem</string>
+    <string name="api_error_message">Um erro ocorreu ao processar a requisição, tente novamente</string>
+    <string name="error_no_image">Por favor, selecione uma imagem</string>
+    <string name="result_label">Resultado:</string>
+    <string name="artist_label">"Artista: %1$s"</string>
+    <string name="year_birth_label">"Ano de nascimento do artista: %1$s"</string>
+    <string name="year_passing_label">"Ano de falecimento do artista: %1$s"</string>
+    <string name="artist_reference_label">"Referência do artista: %1$s"</string>
+    <string name="glass_date_label">"Data do vitral: %1$s"</string>
+    <string name="date_reference_label">"Data de referência: %1$s"</string>
+    <string name="iconography_label">"Iconografia: %1$s"</string>
+    <string name="church_name_label">"Nome da igreja: %1$s"</string>
+    <string name="url_label">"URL: %1$s"</string>
+    <string name="settings_text">Configurações</string>
+    <string name="apply">Apicar</string>
+    <string name="language_label">Linguagem do aplicativo</string>
+    <string name="english_item">Inglês</string>
+    <string name="french_item">Francês</string>
+    <string name="portuguese_item">Português</string>
+    <string name="spanish_item">Espanhol</string>
+    <string name="the_image_file_could_not_be_found_try_again">O arquivo de imagem não pôde ser encontrado, tente novamente</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stained Glass Recognizer</string>
+    <string name="app_presentation">Welcome! This app developed by CentraleSupélec\'s pole P14 performs stained-glass recognition according to the database from the Church of Ireland.</string>
+    <string name="btn_img_selection">Select an image</string>
+    <string name="btn_img_upload">Upload image</string>
+    <string name="api_error_message">An error happened while processing the request, try again</string>
+    <string name="error_no_image">Please, select an image</string>
+    <string name="result_label">Result:</string>
+    <string name="artist_label">"Artist: %1$s"</string>
+    <string name="year_birth_label">"Artist's year of birth: %1$s"</string>
+    <string name="year_passing_label">"Artist's year of death: %1$s"</string>
+    <string name="artist_reference_label">"Artist reference: %1$s"</string>
+    <string name="glass_date_label">"Glass date: %1$s"</string>
+    <string name="date_reference_label">"Date reference: %1$s"</string>
+    <string name="iconography_label">"Iconography: %1$s"</string>
+    <string name="church_name_label">"Church name: %1$s"</string>
+    <string name="url_label">"URL: %1$s"</string>
+    <string name="settings_text">Settings</string>
+    <string name="apply">Apply</string>
+    <string name="language_label">Application language</string>
+    <string name="english_item">English</string>
+    <string name="french_item">French</string>
+    <string name="portuguese_item">Portuguese</string>
+    <string name="spanish_item">Spanish</string>
+    <string name="the_image_file_could_not_be_found_try_again">The image file could not be found, try again</string>
+</resources>

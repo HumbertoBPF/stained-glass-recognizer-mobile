@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reconocedor de Vidrieras</string>
+    <string name="app_presentation">Bienvenido! Esta aplicación desarrollada por el polo P14 de CentraleSupélec realiza reconocimiento de vidrieras de acuerdo con la base de datos de la Iglesia de Irlanda.</string>
+    <string name="btn_img_selection">Seleccione una imagen</string>
+    <string name="btn_img_upload">Cargar imagen</string>
+    <string name="api_error_message">Un error ocurrió mientras el processamento de la petición HTTP, inténtelo de nuevo</string>
+    <string name="error_no_image">Por favor, seleccione una imagen</string>
+    <string name="result_label">Resultado:</string>
+    <string name="artist_label">"Artista: %1$s"</string>
+    <string name="year_birth_label">"Año de nacimiento del artista: %1$s"</string>
+    <string name="year_passing_label">"Año de fallecimiento del artista: %1$s"</string>
+    <string name="artist_reference_label">"Referencia del artista: %1$s"</string>
+    <string name="glass_date_label">"Fecha de la vidriera: %1$s"</string>
+    <string name="date_reference_label">"Fecha de referencia: %1$s"</string>
+    <string name="iconography_label">"Iconografía: %1$s"</string>
+    <string name="church_name_label">"Nombre de l'iglesia: %1$s"</string>
+    <string name="url_label">"URL: %1$s"</string>
+    <string name="settings_text">Configuración</string>
+    <string name="apply">Apicar</string>
+    <string name="language_label">Idioma de la aplicación</string>
+    <string name="english_item">Inglés</string>
+    <string name="french_item">Francés</string>
+    <string name="portuguese_item">Portugués</string>
+    <string name="spanish_item">Español</string>
+    <string name="the_image_file_could_not_be_found_try_again">El fichero de imagen no fue encontrado, inténtelo de nuevo</string>
+</resources>

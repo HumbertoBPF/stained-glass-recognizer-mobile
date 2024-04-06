@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Reconnaisseur de Vitraux</string>
+    <string name="app_presentation">"Bienvenue! Cette application développée par le pôle projet P14 de CentraleSupéléc réalise la reconnaissance des vitraux selon la base des données de l'Église de l'Irlande".</string>
+    <string name="btn_img_selection">Sélectionner une image</string>
+    <string name="btn_img_upload">Télécharger l\'image</string>
+    <string name="api_error_message">Une erreur a eu lieu lors de la requête, veuillez ressayer</string>
+    <string name="error_no_image">Choisissez une image</string>
+    <string name="result_label">Résultat:</string>
+    <string name="artist_label">Artiste: %1$s</string>
+    <string name="year_birth_label">"Année de naissance de l'artiste: %1$s"</string>
+    <string name="year_passing_label">"Année de déces de l'artiste: %1$s"</string>
+    <string name="artist_reference_label">"Référence de l'artiste: %1$s"</string>
+    <string name="glass_date_label">"Date du vitrail: %1$s"</string>
+    <string name="date_reference_label">"Date de référence : %1$s"</string>
+    <string name="iconography_label">"Iconographie: %1$s"</string>
+    <string name="church_name_label">"Nom de l'église: %1$s"</string>
+    <string name="url_label">"URL: %1$s"</string>
+    <string name="settings_text">Paramètres</string>
+    <string name="apply">Appliquer</string>
+    <string name="language_label">"Language de l'application"</string>
+    <string name="english_item">Anglais</string>
+    <string name="french_item">Français</string>
+    <string name="portuguese_item">Portugais</string>
+    <string name="spanish_item">Espagnol</string>
+    <string name="the_image_file_could_not_be_found_try_again">"Le fichier d\'image n\'a pas été trouvé, veuillez ressayer"</string>
+</resources>
