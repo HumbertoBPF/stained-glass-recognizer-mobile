@@ -2,9 +2,9 @@
 
 <h3>Context</h3>
 
-<p>The code in this repository was developed in a six months project as part of a course 
-(Pôle Project) of CentraleSupélec (University Paris-Saclay). I was a member in a group of 
-four students and we should develop an Android application capable to recognize 
+<p>The code in this repository was developed in a six-month project as part of a course 
+(Pôle Project) of CentraleSupélec (University Paris-Saclay). I was a member of a group of 
+four students and we developed an Android application capable of recognizing 
 Stained Glass from churches.</p>
 
 <p>The source code that you find here is the Android application where users can upload an
@@ -22,7 +22,7 @@ most similar one.</p>
 <ul>
     <li>
         An initial screen where users can select a picture from their cellphones. They can do so
-by either clicking on the "select an image" button or on the placeholder picture. After picking 
+by clicking on the "select an image" button or the placeholder picture. After picking 
 an image, a preview will be displayed and you can upload the image (the upload will succeed only if
 the API is up).
     </li>
@@ -43,7 +43,9 @@ glass in the database, such as the artist, the glass date, the church where it i
 <ul>
     <li>Download the source code.</li>
     <li>Open the project on Android Studio (I used Android Studio Giraffe | 2022.3.1 Patch 2, 
-but more modern version should work as well).</li>
+but a more modern version should also work).</li>
     <li>The IDE will sync the configuration files and install the dependencies.</li>
-    <li>You can launch the app in an emulated device or in a physical device.</li>
+    <li>Create a "secret.properties" file in the root of your project. This file must contain a 
+variable named "apiUrl" whose value must be the URL of the API to be called by the app.</li>
+    <li>You can launch the app on an emulated device or a physical device.</li>
 </ul>
